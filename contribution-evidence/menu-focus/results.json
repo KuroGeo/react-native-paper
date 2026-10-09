@@ -1,0 +1,26 @@
+{
+  "before": {
+    "active": "Menu 29",
+    "activeTestID": "menu-anchor-29",
+    "listScroll": 1620,
+    "windowScroll": 0,
+    "menus": 30
+  },
+  "after": {
+    "append": {
+      "active": "Append hidden menus",
+      "activeTestID": "append-menus",
+      "listScroll": 0,
+      "windowScroll": 0,
+      "menus": 30
+    },
+    "opened": {
+      "active": "First action",
+      "activeTestID": "menu-item-0"
+    },
+    "closed": {
+      "active": "Menu 0",
+      "activeTestID": "menu-anchor-0"
+    }
+  }
+}
